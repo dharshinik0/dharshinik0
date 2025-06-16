@@ -16,13 +16,10 @@
 🚀 Tech Stack — Currently Learning & Using
 🧠 Languages & Data
 Python SQL Pandas Scikit-learn PostgreSQL
-
 🎨 Frontend
 HTML CSS JavaScript React Tailwind CSS
-
 ⚙️ Backend (learning in progress)
 Node.js Express.js
-
 🛠 Tools & Workflow
 Git GitHub VS Code Postman Notion Figma
 
